@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, Me llamo Jovany GJ</h1></summary>
   </ul>
 </div>
 
@@ -24,21 +24,40 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+<!-- Intro Start -->
+🔭 Actualmente trabajando con **AWS | React | React Native | Node.js | MongoDB**  
+🌱 Aprendiendo a construir y escalar aplicaciones con el **Hyper Beast Stack**  
+☁️ Apasionado por la **Computación en la Nube** (profundizando en **AWS**)  
+📝 Escribo artículos y comparto ideas en [Hashnode](https://1010nishant.hashnode.dev/)  
+💬 Pregúntame sobre **AWS, React, React Native, Node.js, MongoDB**  
+📫 Contáctame en **nishantjangid6377@gmail.com**  
+🏠 Conectemos en Discord → [1010nishant](https://discordapp.com/users/957722095381540874)  
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+---
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+## 🚀 Tecnologías  
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+---
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+## 📊 Estadísticas de GitHub  
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
+![Estadísticas de GitHub de Nishant](https://github-readme-stats.vercel.app/api?username=1010nishant&show_icons=true&theme=tokyonight)  
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=1010nishant&layout=compact&theme=tokyonight)
+
+---
+
+## ✍️ Blog & Escritura  
+
+Mira mis últimos artículos en [Hashnode](https://1010nishant.hashnode.dev/) ✨
+
+<!-- Intro End -->
 
 
 

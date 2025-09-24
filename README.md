@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://github.com/tuusuario/tuusuario/blob/main/tech-banner.png" alt="Tech Banner" width="100%" />
+  <img src="https://github.com/Jovany0604/Jovany0604/blob/main/wp3082300.png?raw=true" alt="Tech Banner" width="50%" />
 </p>
 
 <h1 align="center">Hola 👋, soy Jovany GJ</h1>
